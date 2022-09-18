@@ -1,0 +1,12 @@
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\bin\Debug\net5.0\DD.TodoApp.Dtos.deps.json
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\bin\Debug\net5.0\DD.TodoApp.Dtos.dll
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\bin\Debug\net5.0\DD.TodoApp.Dtos.pdb
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\obj\Debug\net5.0\DD.TodoApp.Dtos.csproj.AssemblyReference.cache
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\obj\Debug\net5.0\DD.TodoApp.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\obj\Debug\net5.0\DD.TodoApp.Dtos.AssemblyInfoInputs.cache
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\obj\Debug\net5.0\DD.TodoApp.Dtos.AssemblyInfo.cs
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\obj\Debug\net5.0\DD.TodoApp.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\obj\Debug\net5.0\DD.TodoApp.Dtos.dll
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\obj\Debug\net5.0\refint\DD.TodoApp.Dtos.dll
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\obj\Debug\net5.0\DD.TodoApp.Dtos.pdb
+C:\Users\dargy\source\repos\DD.TodoApp\DD.TodoApp.Dtos\obj\Debug\net5.0\ref\DD.TodoApp.Dtos.dll
