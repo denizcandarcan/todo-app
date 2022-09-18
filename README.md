@@ -1,6 +1,6 @@
 ### todo-app
 
-I prepared this simple ToDo app due to understand and practice some of the subjects in my .Net Core training.
+I prepared this simple ToDo app in .NET Core 5.0 MVC due to understand and practice some of the subjects in my .Net Core training. 
 
 ## What I learned when I prepare this project?
 
